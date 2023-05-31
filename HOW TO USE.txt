@@ -1,0 +1,20 @@
+HOW TO USE
+
+• Using netbeans:
+
+>> Main Memory Project (Part 1)
+
+1. Extract the project file "MainMemory" from the zip "CPCS361Group5POurCode (Netbeans Projects).zip"
+2. Open the project in the Netbeans IDE
+3. Run the MemoryManagement.java Class
+
+-----------------------------------------------------------------
+
+>> Virtual Memory Project (Part 2)
+
+1. Extract the project file "VirtualMemory" from the zip "CPCS361Group5POurCode (Netbeans Projects).zip"
+2. Open the project in the Netbeans IDE
+3. Run the VirtualMemory.java Class
+
+
+ENJOY!

@@ -1,0 +1,10 @@
+
+---------------- The Five Test Cases -------------------
+Logical Address     Page #    Offset    Frame #   Value     Same as model answer
+
+28781               112       109       140       0         Yes            
+61006               238       78        28        59        Yes            
+6727                26        71        217       -111      Yes            
+61006               238       78        28        59        Yes            
+22760               88        232       61        0         Yes            
+

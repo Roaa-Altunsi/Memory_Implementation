@@ -1,0 +1,20 @@
+
+---------- The testing of the page replacement -----------
+
+Logical Address     New Page #     Victim Page #  Reused Frame # 
+
+22048               86             72             48             
+26867               104            17             125            
+31880               124            98             28             
+18815               73             4              4              
+33958               132            26             2              
+
+--------- The testing of the page replacement #2 ----------
+
+Logical Address     Page #         Offset         Frame #        Value          Same as model answer
+
+22048               86             32             48             40             Yes                 
+26867               104            243            125            -65            Yes                 
+31880               124            136            28             -115           Yes                 
+18815               73             127            4              -53            Yes                 
+33958               132            166            2              -119           Yes                 
